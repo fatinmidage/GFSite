@@ -1,3 +1,5 @@
 db.sqlite3
 
-*.pyc
+GFSite/__pycache__/*.pyc
+Site/__pycache__/*.pyc
+Site/migrations/*.pyc
