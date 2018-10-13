@@ -1,5 +1,5 @@
 db.sqlite3
 
-GFSite/__pycache__/*.pyc
-Site/__pycache__/*.pyc
-Site/migrations/*.pyc
+GFSite\__pycache__\*.pyc
+Site\__pycache_\*.pyc
+Site\migrations\*.pyc
